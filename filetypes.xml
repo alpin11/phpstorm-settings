@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="crontab" type="AUTO_DETECTED" />
+      <mapping pattern="_env_local" type="AUTO_DETECTED" />
       <mapping pattern=".env_old" type="PLAIN_TEXT" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeeep" type="PLAIN_TEXT" />
