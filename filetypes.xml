@@ -5,8 +5,6 @@
       <mapping pattern=",gitkeep" type="AUTO_DETECTED" />
       <mapping pattern="crontab" type="AUTO_DETECTED" />
       <mapping pattern="_env_local" type="AUTO_DETECTED" />
-      <mapping pattern=".mjmlconfig" type="JSON" />
-      <mapping pattern="*_mjml.blade.php" type="MJML" />
       <mapping pattern=".env_old" type="PLAIN_TEXT" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeeep" type="PLAIN_TEXT" />
